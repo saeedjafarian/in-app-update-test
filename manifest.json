@@ -1,7 +1,7 @@
 {
   "images": [
 	{
-	  "id": "dragon",
+	  "id": "skin_01",
 	  "version": 1,
 	  "url": "https://raw.githubusercontent.com/saeedjafarian/in-app-update-test/main/skins/skin_01.png",
 	  "sha256": "81881662931ebe369b826722158a801ded5293b219ebf2f9de427a2ced17e5cf"
