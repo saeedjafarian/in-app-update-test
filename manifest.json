@@ -1,0 +1,10 @@
+{
+  "images": [
+	{
+	  "id": "dragon",
+	  "version": 1,
+	  "url": "https://firebasestorage.googleapis.com/v0/b/YOUR_PROJECT/o/skins%2Fdragon.png?alt=media",
+	  "sha256": "abc123..."
+	}
+  ]
+}
