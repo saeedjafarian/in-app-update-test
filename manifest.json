@@ -11,6 +11,12 @@
 	  "version": 1,
 	  "url": "https://raw.githubusercontent.com/saeedjafarian/in-app-update-test/main/skins/skin_02.png",
 	  "sha256": "f589510a36f96f821ecd169e87216184b12537ae93ff49489963d7d2b390ed4b"
+	},
+	{
+	  "id": "skin_03",
+	  "version": 1,
+	  "url": "https://raw.githubusercontent.com/saeedjafarian/in-app-update-test/main/skins/skin_02.png",
+	  "sha256": "865ae00fe72a390f96eabb0467423d27c83a6f4b4229d058c1d7382ad27c0e3c"
 	}
   ]
 }
