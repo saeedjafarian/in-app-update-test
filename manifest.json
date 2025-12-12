@@ -2,9 +2,9 @@
   "images": [
 	{
 	  "id": "skin_01",
-	  "version": 9,
+	  "version": 10,
 	  "url": "https://raw.githubusercontent.com/saeedjafarian/in-app-update-test/main/skins/skin_01.png",
-	  "sha256": "4e36b32b09bc2c5b7c64ae1b9a24476f3fec0c33376c683f7aa144c708663483"
+	  "sha256": "7df21d4125d540a77543886246acc02f121ebe5938ece275a90d01522b460f6c"
 	}
   ]
 }
