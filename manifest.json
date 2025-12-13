@@ -2,21 +2,9 @@
   "images": [
 	{
 	  "id": "skin_01",
-	  "version": 13,
+	  "version": 1,
 	  "url": "https://raw.githubusercontent.com/saeedjafarian/in-app-update-test/main/skins/skin_01.png",
 	  "sha256": "08d9aba0eeeee6e2631812ab4c7be1a05f742ebc2a0c70c61db071d987d82d66"
-	},
-	{
-	  "id": "skin_02",
-	  "version": 1,
-	  "url": "https://raw.githubusercontent.com/saeedjafarian/in-app-update-test/main/skins/skin_02.png",
-	  "sha256": "f589510a36f96f821ecd169e87216184b12537ae93ff49489963d7d2b390ed4b"
-	},
-	{
-	  "id": "skin_03",
-	  "version": 4,
-	  "url": "https://raw.githubusercontent.com/saeedjafarian/in-app-update-test/main/skins/skin_03.png",
-	  "sha256": "e11942f1cdc719ecc2a88162d088fa6d872b6cc1f8586a054d6d3de8a42ed02e"
 	}
   ]
 }
